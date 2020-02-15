@@ -1,0 +1,109 @@
+body{
+  overflow-y: hidden;
+  background: #d9a7c7;
+  background: -webkit-linear-gradient(to right, #fffcdc, #d9a7c7);
+  background: linear-gradient(to right, #fffcdc, #d9a7c7);
+
+}
+
+
+
+/*PROPIEDADES TITULO*/
+.titulo{
+  background-color: #BC0404;
+  border: 2px #000 solid;
+  width: 25%;
+  height: 60px;
+  text-align: center;
+  border-radius: 1px 70px 1px 1px;
+}
+
+h1{
+  position: relative;
+  right: 4%;
+  bottom: 48%;
+  font-size: 50px;
+  font-family: 'Turret Road', cursive;
+}
+
+
+/*DIV DOBLE*/
+.Div_Doble{
+  border: 2px #000 solid;
+  width: 98%;
+  height: 550px;
+  background-color: #965602;
+}
+
+/*DIV BUSCADOR - PROPIEDADES*/
+.Div_Buscador{
+  background-color: #fff;
+  position: relative;
+  top: .5%;
+  margin-top: 2px;
+  margin-left: 3px;
+  border: 2px #000 solid;
+  width: 30%;
+  height: 25%;
+  text-align: center;
+}
+
+.texto_1{
+  font-size: 20px;
+  font-family: 'Lobster', cursive;
+}
+
+.entrada_texto{
+  width: 90%;
+  height: 30%;
+  font-size: 180%;
+  border: 2px #000 solid;
+  font-family: 'Source Serif Pro', serif;
+}
+
+.Botoncito{
+  margin-top: 10px;
+  width: 40%;
+  height: 30%;
+  background-color: #109B07;
+  border-style: none;
+  color: #fff;
+  font-weight: bolder;
+  font-size: 25px;
+  font-family: 'Source Serif Pro', serif;
+}
+
+.Botoncito:hover{
+ background-color: #12D204;
+}
+
+/*DIV RESPUESTA - PROPIEDADES*/
+.Div_respuesta{
+  background-color: #fff;
+  text-align: center;
+  position: relative;
+  bottom: 25.6%;
+  left: 30.7%;
+  margin-top: 2px;
+  margin-left: 2px;
+  border: 2px #000 solid;
+  width: 68.5%;
+  height: 98%;
+  text-align: center;
+}
+
+.div_texto{
+  margin-top: 1%;
+  margin-left: 1%;
+  width: 98%;
+  height: 40%;
+}
+
+.Label_respuesta{
+  font-size: 35px;
+}
+
+.foto_diccio{
+  margin-top: 2%;
+  width: 40%;
+}

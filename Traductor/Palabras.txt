@@ -1,0 +1,80 @@
+|-----------------------ESPAÑOL---------------------------|
+(Escribirlas tal cual estan escritas)
+
+*Rojo
+*Verde
+*Azul
+*Naranja
+*Negro
+*Blanco
+*Amarillo
+*Hola
+*Adios
+*Como estas?
+*Amanecer
+*Donde estas?
+*Liga de leyendas
+*Viaje
+*Bizcocho
+*Tengo hambre
+*Cual es tu nombre?
+
+|-----------------------INGLES---------------------------|
+
+*Red
+*Green
+*Blue
+*Orange
+*Black
+*White
+*Yellow
+*Hello
+*Goodbye
+*How are you?
+*Dawn
+*Where are you?
+*League of legends
+*Travel
+*Biscuit
+*I'm hungry
+*What's your name?
+
+|-----------------------FRANCES---------------------------|
+*Rouge
+*Vert
+*Bleu
+*Orange
+*Noir
+*Blanc
+*Jaune
+*Salut
+*Au revoir
+*Comment vas-tu?
+*Aube
+*Où es-tu?
+*Ligue des legendes  
+*Voyage
+*Biscuit
+*J ai faim
+*Comment tu t appelles?
+
+|-----------------------ALEMAN---------------------------|
+
+*Rot
+*Grün
+*Blau
+*Orange
+*Schwarz
+*Weiß
+*Gelb
+*Hallo
+*Auf Wiedersehen
+*Wie geht es Ihnen?
+*Dämmerung
+*Wo bist du?
+*League Of Legends  
+*Reise
+*Keks
+*Ich bin hungrig
+*Wie ist dein Name?  
+

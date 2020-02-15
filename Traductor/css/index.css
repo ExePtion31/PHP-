@@ -1,0 +1,74 @@
+h1{
+  text-align: center;
+  font-size: 40px;
+  color: #5006D8;
+  text-shadow: 2px 1px #000;
+}
+
+.cajas_traduc{
+  margin-bottom: 1px;
+  text-align: center;
+}
+
+.flechas{
+  font-size: 20px;
+  color: red;
+  font-weight: bold;
+}
+
+.Cajas_resp{
+  position: relative;
+  top: 10px;
+  text-align: center;
+}
+
+.botones{
+  margin-top: 1px;
+  position: relative;
+  top: 50px;
+  text-align: center;
+}
+
+.btn_traducir{
+  width: 15%;
+  height: 40px;
+  font-size: 20px;
+  font-weight: bolder;
+  color: #fff;
+  border-style: double;
+  background-color: #179D05;
+}
+
+.btn_traducir:hover{
+  background-color: #1DD005;
+}
+
+.btn_borrar{
+  width: 15%;
+  height: 40px;
+  font-size: 20px;
+  font-weight: bolder;
+  color: #fff;
+  border-style: double;
+  background-color: #990404;
+}
+
+.btn_borrar:hover{
+  background-color: #E60505;
+}
+
+select{
+ width: 12%;
+ border: 2px #000 solid;
+ font-size: 20px;
+ font-style: normal;
+}
+
+textarea{
+  text-align: left;
+  width: 25%;
+  height: 120px;
+  border: 2px #000 solid;
+  font-size: 20px;
+  font-style: normal;
+}

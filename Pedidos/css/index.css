@@ -1,0 +1,52 @@
+body{
+
+}
+
+
+
+/*DIV TITULO*/
+
+.Div_titulo{
+  border: 2px #000 solid;
+  border-radius: 15px 15px 15px 15px;
+  background-color: #2B0DC2;
+}
+
+h1{
+  color: #fff;
+  font-size: 45px;
+  text-align: center;
+  text-shadow: 4px 1px #B4B3B7;
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+/*BARRA MENÚ*/
+.Div_menu{
+  margin-top: 3px;
+  border: 2px #000 solid;
+  background-color: #868787;
+  padding: 3px;
+  text-align: center;
+  border-radius: 15px 15px 15px 15px;
+}
+
+.btn_pedidos, .btn_verpedidos{
+  width: 15%;
+  height: 40px;
+  font-family: 'Josefin Sans', sans-serif;
+  box-shadow: 3px 0px 2px;
+  border-style: none;
+  margin-right: 4px;
+  background-color: #06C6C2;
+  color: #fff;
+  font-size: 25px;
+  font-weight: bolder;
+}
+
+.btn_verpedidos:hover{
+  background-color: #05F7F3;
+}
+
+.btn_pedidos:hover{
+  background-color: #05F7F3;
+}
